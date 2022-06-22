@@ -1,6 +1,6 @@
-# Responsive Portafolio Website Hugo Developer
+# Website Hugo Developer
 
-_Creando un Páginas Web Básica aplicando HTML y CSS_
+_Responsive Portafolio Website Hugo Developer_
 
 ## Comenzando 🚀
 
